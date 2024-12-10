@@ -27,15 +27,18 @@ the damned, and the ground beneath your feet crumbles.
 Without warning, the earth gives way, and you plunge into an abyss.
 Your story ends here, swallowed by the island’s merciless depths.''')
     exit()
+
 elif the_fork_in_the_road == "right":
     print('''Right: This path opens into a clearing bathed in moonlight,
 where a serene lake shimmers with unnatural light. You have passed the
 first trial, but your journey is far from over.''')
+
     the_lake_of_time = input('''Standing before the lake, you sense its unnatural stillness.
 The water’s surface reflects not the sky but a swirling void. A voice whispers:
 “The lake demands a choice. Swim, and you may face the fury of its guardian.
 Wait, and time may deliver a safer way.”
 ''').lower()
+
     if the_lake_of_time == "swim":
         print('''Swim: The moment you enter the water, it grows cold and viscous, pulling you
 into its depths. From below emerges a monstrous trout, its eyes glowing red and its maw
