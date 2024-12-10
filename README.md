@@ -1,5 +1,12 @@
 # Treasure Island: A Practice Project
 
+--.   --..,_   _,.--.   --..,_   _,.--.   --..,_   _,.--.   --..,
+o  `;__. `'.:'`__ o  `;__. `'.:'`__ o  `;__. `'.:'`__ o  `;__. `' .
+---'`  `  .'.:`. '---'`  `  .'.:`. '---'`  `  .'.:`. '---'`  `  .'.
+--....--'`.'  '.`'--....--'`.'  '.`'--....--'`.'  '.`'--....--'`.'
+--....--'`      `'--....--'`      `'--....--'`      `'--....--'`
+*******************************************************************
+
 Welcome to **Treasure Island**, a text-based adventure game created as a fun and engaging way to practice Python programming. This project is designed to help me sharpen my skills by building a simple game that incorporates decision-making, storytelling, and user input.
 
 ## **Purpose of the Project**
